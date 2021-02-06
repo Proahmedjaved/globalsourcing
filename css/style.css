@@ -2344,9 +2344,8 @@ line-height: 30px;
      padding-top: 71px;
      padding-bottom: 72px;
      text-align: center;
-     font-family: apple;
-     font-size: 100px;
-     line-height : 80px;
+     font-family: poppins;
+     font-size: 50px !important;
      color: #fff;
 }
 
